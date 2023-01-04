@@ -1,0 +1,14 @@
+{
+    "name": "@types/minecraft__server-ui",
+    "version": "1.0.0-beta",
+    "description": "TypeScript definitions for @minecraft/server-ui",
+    "license": "MIT",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/depressed-pho/types-minecraft__server-ui.git"
+    },
+    "devDependencies": {
+        "@types/minecraft__server": "github:depressed-pho/types-minecraft__server"
+    }
+}
