@@ -166,7 +166,10 @@ export class ModalFormData {
     /**
      * Adds a dropdown with choices to the form.
      */
-    dropdown(label: MC.RawMessage | string, options: (MC.RawMessage | string)[], defaultValueIndex?: number): ModalFormData;
+    dropdown(label: MC.RawMessage | string,
+             options: (MC.RawMessage | string)[],
+             defaultValueIndex?: number
+            ): ModalFormData;
     /**
      * Creates and shows this modal popup form. Returns asynchronously when
      * the player confirms or cancels the dialog.
