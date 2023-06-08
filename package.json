@@ -1,6 +1,6 @@
 {
     "name": "@types/minecraft__server-ui",
-    "version": "1.0.0-beta",
+    "version": "1.1.0-beta",
     "description": "TypeScript definitions for @minecraft/server-ui",
     "license": "MIT",
     "types": "index.d.ts",
