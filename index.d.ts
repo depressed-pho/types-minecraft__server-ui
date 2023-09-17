@@ -43,7 +43,7 @@
  * ```json
  * {
  *   "module_name": "@minecraft/server-ui",
- *   "version": "1.1.0-beta"
+ *   "version": "1.1.0"
  * }
  * ```
  *
@@ -51,8 +51,8 @@
 import * as MC from "@minecraft/server";
 
 export enum FormCancelationReason {
-    userBusy   = "userBusy",
-    userClosed = "userClosed",
+    UserBusy   = "UserBusy",
+    UserClosed = "UserClosed",
 }
 export enum FormRejectionReason {
     MalformedResponse = "MalformedResponse",
