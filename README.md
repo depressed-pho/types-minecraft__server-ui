@@ -1,8 +1,8 @@
 # TypeScript definitions for `@minecraft/server-ui`
 
-These should really be hosted by
-[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) but
-until the API is stabilized it's rather hard to do.
+The purpose of this repository is to provide TypeScript definitions for the
+latest beta API. If you only need stable API use
+https://www.npmjs.com/package/@minecraft/server-ui instead.
 
 ## Usage
 

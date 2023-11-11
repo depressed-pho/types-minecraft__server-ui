@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/depressed-pho/types-minecraft__server-ui.git"
     },
-    "devDependencies": {
+    "dependencies": {
         "@types/minecraft__server": "github:depressed-pho/types-minecraft__server"
     }
 }
